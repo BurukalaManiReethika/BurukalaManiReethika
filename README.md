@@ -1,4 +1,4 @@
-# 👩‍💻 Burukala Mani Reethika
+Hi there # 👩‍💻 Burukala Mani Reethika
 
 **Electronics & Communication Engineering Student | Python Developer | AI Enthusiast**
 
