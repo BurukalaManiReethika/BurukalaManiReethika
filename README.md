@@ -1,60 +1,104 @@
-Hi there # 👩‍💻 Burukala Mani Reethika
 
-**Electronics & Communication Engineering Student | Python Developer | AI Enthusiast**
+# 🚀 Mani Reethika Burukala
 
-📫 **Contact**  
-📱 +91-8639327395  
-📧 manireethikab@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/burukala-manireethika7)  
-🔗 [GitHub](https://github.com/BurukalaManiReethika)
+🎓 B.Tech in Electronics & Communication Engineering (2021–2025)
+💻 Aspiring Software Developer | Python | Java | AI/ML
+📍 Hyderabad, India
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-Hi! I'm **Mani Reethika**, an Electronics and Communication Engineering student with a passion for technology, development, and data analysis. I specialize in building intelligent and interactive solutions using Python and Streamlit. I'm constantly learning and applying my skills to solve real-world problems with innovative thinking and collaborative spirit.
+I am an aspiring software developer with strong knowledge in **Python, Java, SQL, and AI/ML concepts**. I enjoy building real-world applications, solving problems, and improving system performance.
 
----
-
-## 💼 Skills
-
-- **Programming Languages**: Python, C  
-- **Frontend**: HTML5, CSS3  
-- **Frameworks & Tools**: Streamlit, Jupyter Notebook  
-- **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn  
-- **Others**: MS Office, Google Workspace  
-- **Soft Skills**: Problem Solving, Critical Thinking, Team Collaboration, Adaptability, Communication  
-- **Additional**: Data Structures & Algorithms
+* 🔍 Interested in Software Development & AI
+* ⚙️ Experience with CI/CD, Docker, and REST APIs
+* 📈 Focused on writing clean, optimized, and scalable code
+* 🚀 Actively preparing for Software Engineer roles
 
 ---
 
-## 📌 Projects
+## 🛠️ Tech Stack
 
-### 🔹 [House Price Prediction App](https://github.com/manireethika-burukala)  
-A Streamlit web app that predicts house prices using Linear Regression.  
-- User inputs: Square feet, Age, Number of Bedrooms  
-- Real-time predictions with pre-trained model  
-- Tools: Python, Pandas, NumPy, Scikit-learn, Streamlit
+### 💻 Programming
 
-### 🔹 Electronic Vehicle Battery Monitoring System  
-Developed a real-time system using microcontrollers and sensors to:  
-- Monitor battery health and charge levels  
-- Enable efficient energy use in electric vehicles
+* Python
+* Java
+* C
+* JavaScript
+
+### 🗄️ Database
+
+* SQL
+* PL/SQL
+
+### ⚡ Core Concepts
+
+* Data Structures & Algorithms
+* OOPs
+* DBMS
+* SDLC
+
+### ☁️ Tools & Technologies
+
+* Git & GitHub
+* Docker
+* GitHub Actions (CI/CD)
+* AWS (EC2, S3 - Basics)
+* Flask
+
+---
+
+## 📂 Projects
+
+### 🔹 CI/CD Pipeline for Web Application
+
+* Built automated CI/CD pipeline using GitHub Actions
+* Containerized app using Docker
+* Reduced manual deployment effort by **50%**
+
+---
+
+### 🔹 Smart Attendance System (Face Recognition)
+
+* Built using Python, OpenCV & Deep Learning
+* Automated identity verification
+* Improved accuracy and reduced manual work
+
+---
+
+### 🔹 House Price Prediction (Machine Learning)
+
+* Built regression model using Scikit-learn
+* Performed data preprocessing & EDA
+* Improved prediction accuracy with feature engineering
 
 ---
 
 ## 📜 Certifications
 
-- **Programming in Python** – Cisco Networking Academy  
-- **Generative AI** – GUVI  
-- **HTML & CSS** – ThingQbator  
+* AI Agentic – Google / Kaggle
+* Python Programming – Cisco Networking Academy
+* Generative AI – GUVI (Google Program)
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 🏆 Achievements
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=  BurukalaManiReethika&show_icons=true&theme=default)
+* Developed multiple AI/ML and software projects
+* Improved ML model performance through data analysis
+* Contributed to AI training & dataset evaluation
 
 ---
 
-### 🚀 Let's connect and build something amazing!
+## 🔗 Connect With Me
+
+* 📧 Email: [manireethikab@gmail.com](mailto:manireethikab@gmail.com)
+
+---
+
+## 🌟 Goals
+
+* Crack a Software Developer role in a top company
+* Build impactful real-world applications
+* Continuously improve problem-solving skills
