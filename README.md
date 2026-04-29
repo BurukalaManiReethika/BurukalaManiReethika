@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MANI%20REETHIKA%20BURUKALA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Flask%20%7C%20REST%20API%20%7C%20ML%20Integration&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Building+Scalable+Backend+Systems;⚡+Flask+%2B+REST+API+Specialist;🤖+ML-Powered+Application+Developer;🐍+Python+Backend+Engineer;☁️+AWS+%7C+Docker+%7C+CI%2FCD+Practitioner" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
 <p>
   <a href="https://linkedin.com/in/burukala-mani-reethika">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,7 +24,6 @@
 
 <br/>
 
-<!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/🔥%20Open%20to%20Work-Backend%20Developer%20Roles-22c55e?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍%20Available-Immediately-f59e0b?style=flat-square"/>
@@ -46,7 +42,7 @@ class ManiReethika:
         self.location    = "Hyderabad, India 🇮🇳"
         self.education   = "B.Tech ECE — Avanthi Institute (CGPA: 7.32)"
         self.email       = "manireethikab@gmail.com"
-        
+
         self.specialties = [
             "⚡ Scalable REST API Development (Flask)",
             "🤖 ML-Powered Backend Systems",
@@ -54,17 +50,17 @@ class ManiReethika:
             "☁️  Cloud Deployment (AWS EC2, S3)",
             "🐳  Docker & CI/CD Pipelines",
         ]
-        
+
         self.impact = {
             "resume_screening_efficiency": "+40%",
             "manual_effort_reduced":       "-50%",
             "recommendation_accuracy":     "+30%",
             "api_response_time":           "-25%",
         }
-        
+
         self.currently_learning = ["System Design", "Microservices at Scale", "FastAPI"]
         self.goal               = "Secure an impactful Backend Engineer role 🚀"
-    
+
     def say_hi(self):
         print("Thanks for visiting! Let's build something incredible together.")
 
@@ -100,7 +96,7 @@ me.say_hi()
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=nlp&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
