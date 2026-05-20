@@ -1,278 +1,175 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MANI%20REETHIKA%20BURUKALA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Flask%20%7C%20REST%20API%20%7C%20ML%20Integration&descAlignY=58&descSize=16&animation=fadeIn" />
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║        ███╗   ███╗ █████╗ ███╗   ██╗██╗                         ║
+║        ████╗ ████║██╔══██╗████╗  ██║██║                         ║
+║        ██╔████╔██║███████║██╔██╗ ██║██║                         ║
+║        ██║╚██╔╝██║██╔══██║██║╚██╗██║██║                         ║
+║        ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║                         ║
+║        ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝                         ║
+║                                                                  ║
+║         R E E T H I K A   B U R U K A L A                       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Building+Scalable+Backend+Systems;⚡+Flask+%2B+REST+API+Specialist;🤖+ML-Powered+Application+Developer;🐍+Python+Backend+Engineer;☁️+AWS+%7C+Docker+%7C+CI%2FCD+Practitioner" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<p>
-  <a href="https://linkedin.com/in/burukala-mani-reethika">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:manireethikab@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-manireethikab@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=BurukalaManiReethika&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Python+Developer;Backend+%2B+ML+%2B+DevOps+Engineer;Building+Systems+That+Think+%26+Scale;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔥%20Open%20to%20Work-Backend%20Developer%20Roles-22c55e?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📍%20Available-Immediately-f59e0b?style=flat-square"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burukala%20Mani%20Reethika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burukala-mani-reethika)
+[![GitHub](https://img.shields.io/badge/GitHub-BurukalaManiReethika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurukalaManiReethika)
+[![Email](https://img.shields.io/badge/Email-manireethikab%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manireethikab@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-00C49A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
 ```python
 class ManiReethika:
-    def __init__(self):
-        self.name        = "Mani Reethika Burukala"
-        self.role        = "Python Backend Developer"
-        self.location    = "Hyderabad, India 🇮🇳"
-        self.education   = "B.Tech ECE — Avanthi Institute (CGPA: 7.32)"
-        self.email       = "manireethikab@gmail.com"
+    role        = "Software Engineer | Python Developer | Backend Engineer"
+    location    = "Hyderabad, India 🇮🇳"
+    education   = "B.Tech – ECE @ Avanthi Institute of Technology (2021–2025)"
+    focus       = ["Backend APIs", "ML Systems", "DevOps & CI/CD"]
+    currently   = "Open to full-time SWE / Backend / ML roles 🚀"
+    mantra      = "Build systems that scale. Write code that matters."
+```
 
-        self.specialties = [
-            "⚡ Scalable REST API Development (Flask)",
-            "🤖 ML-Powered Backend Systems",
-            "🗄️  Relational Database Design (MySQL, PL/SQL)",
-            "☁️  Cloud Deployment (AWS EC2, S3)",
-            "🐳  Docker & CI/CD Pipelines",
-        ]
+> Entry-level Software Engineer with hands-on experience building **REST APIs**, **CI/CD pipelines**, and **ML-powered applications** using Python, Flask, Docker, and SQL. Passionate about clean architecture, intelligent systems, and shipping things that work.
 
-        self.impact = {
-            "resume_screening_efficiency": "+40%",
-            "manual_effort_reduced":       "-50%",
-            "recommendation_accuracy":     "+30%",
-            "api_response_time":           "-25%",
-        }
+---
 
-        self.currently_learning = ["System Design", "Microservices at Scale", "FastAPI"]
-        self.goal               = "Secure an impactful Backend Engineer role 🚀"
+## `$ ls -la skills/`
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something incredible together.")
+<div align="center">
 
-me = ManiReethika()
-me.say_hi()
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-1A73E8?style=flat-square&logo=googlepubsub&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| **ML / Data** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+## `$ cat projects/`
+
+### 🤖 AI Resume Analyzer — *NLP-Based Resume Screening System*
+> *The problem: recruiters drown in resumes. The solution: let the machine sort first.*
+
+```
+⚡ Impact  →  40% faster screening  |  50% less manual effort
+🔧 Stack   →  Python • Flask • NLP • Machine Learning • Text Processing
+🎯 Feature →  ATS-optimized resume-job match scoring engine
+```
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
+
+---
+
+### 💼 Job Recommendation System — *ML + Backend API*
+> *Cosine similarity meets career advice — match users to jobs they'll actually want.*
+
+```
+⚡ Impact  →  30% better accuracy  |  25% faster response time
+🔧 Stack   →  Flask • Scikit-learn • REST API • Cosine Similarity
+🌐 Live    →  Deployed on Streamlit
+```
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
+
+---
+
+### 🔄 CI/CD Pipeline for Web Application
+> *Automate everything. Ship faster. Break nothing.*
+
+```
+⚡ Impact  →  Zero-touch automated deployments
+🔧 Stack   →  Docker • GitHub Actions • CI/CD • DevOps
+🎯 Feature →  Containerized build + test + deploy pipeline
+```
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker)
+
+---
+
+## `$ cat experience.log`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🏢  Software Developer Intern (Virtual)                │
+│  📍  Infosys Springboard  |  April 2026                 │
+├─────────────────────────────────────────────────────────┤
+│  ✔  Hands-on OOP training with Python                   │
+│  ✔  Built mini-projects: Inheritance, Polymorphism,     │
+│     Encapsulation in real-world scenarios                │
+│  ✔  Exposure to complete SDLC lifecycle                 │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Backend & APIs
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Resume Analyzer — NLP-Based Resume Screening System
-> **Impact: +40% screening efficiency | -50% manual effort**
-
-</div>
+## `$ cat certifications/`
 
 ```
-📌 What it does: Analyzes resumes vs job descriptions using NLP & Cosine Similarity
-                 to generate ATS optimization scores in real-time.
-
-🔧 Architecture: Flask REST API → NLP Pipeline → ATS Score Engine → JSON Response
-📦 Stack:        Python | Flask | Scikit-learn | NLP | Text Processing | GitHub Actions
-🌐 Deployed:     Live on Streamlit Cloud with GitHub Actions CI/CD
+📜  Object-Oriented Programming using Python   →  Infosys Springboard
+📜  Programming Fundamentals using Python       →  Infosys (Part 1 & 2)
 ```
 
+---
+
+## `$ neofetch --stats`
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://lnkd.in/g6gfTnxa)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BurukalaManiReethika&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+</div>
 
 ---
 
-### 💼 Job Recommendation System — ML + Backend API
-> **Impact: +30% recommendation accuracy | -25% API response time**
+## `$ ping opportunities`
 
-</div>
+<div align="center">
 
 ```
-📌 What it does: Matches user skill profiles to jobs using ML-powered cosine similarity
-                 via a low-latency REST API backend.
+🟢  STATUS: Actively looking for full-time opportunities
 
-🔧 Architecture: Streamlit UI → Flask REST API → ML Inference → Ranked Job List
-📦 Stack:        Python | Flask | REST API | Cosine Similarity | Scikit-learn | Pandas
-🌐 Deployed:     Live on Streamlit Cloud
+   Backend Development  ████████████████████  100%
+   Python Engineering   ████████████████████  100%
+   ML Engineering       ████████████████  80%
+   DevOps               ██████████████    70%
 ```
 
-<div align="center">
+*If you're building something meaningful — let's talk.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burukala-mani-reethika)
+[![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manireethikab@gmail.com)
+
+</div>
 
 ---
 
-### 👘 Virtual Saree Draping Web App — Image Processing API
-> **End-to-end image processing pipeline with live deployment**
-
-</div>
+<div align="center">
 
 ```
-📌 What it does: Applies virtual saree overlays on user-uploaded images through
-                 server-side image processing APIs with async handling.
-
-🔧 Architecture: Streamlit UI → Flask API → Image Processor → Overlay Response
-📦 Stack:        Python | Flask | REST API | Image Processing | Streamlit | Git
-🌐 Deployed:     Live on Streamlit Cloud
+╔══════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."  ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+![Visitor Count](https://komarev.com/ghpvc/?username=BurukalaManiReethika&color=00D9FF&style=flat-square&label=Profile+Views)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/BurukalaManiReethika/Streamlit-Saree-Draping-App)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://centnhhgp7qxka99dyky4j.streamlit.app/)
-
-</div>
-
----
-
-## 💼 Experience
-
-<table align="center" width="100%">
-<tr>
-<td>
-
-**🏢 Software Developer Intern (Virtual)**
-**Infosys Springboard** | *April 2026*
-
-- ✅ Completed production-style OOP training in Python (Inheritance, Polymorphism, Encapsulation)
-- ✅ Built mini-projects improving backend code reusability and problem-solving efficiency
-- ✅ Gained hands-on SDLC & Agile methodology exposure
-- 🏆 Earned OOP Python Certification
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer |
-|---|---|
-| 🐍 Object-Oriented Programming using Python | Infosys Springboard |
-| 🐍 Programming Fundamentals using Python (Part 1 & 2) | Infosys Springboard |
-| 🤖 Generative AI | GUVI (Google Program) |
-| 🌐 Python Programming | Cisco Networking Academy |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
----
-
-## 🎯 What I Bring to the Table
-
-<div align="center">
-
-| 💡 Skill Area | 🔥 What I've Proven |
-|---|---|
-| **REST API Development** | Built 3+ production-grade Flask APIs with real-world usage |
-| **ML Integration** | Embedded cosine similarity & NLP into backend pipelines |
-| **Performance Optimization** | Reduced API response time by 25%, boosted accuracy by 30% |
-| **Cloud & DevOps** | Deployed on AWS EC2/S3 with Docker & GitHub Actions CI/CD |
-| **Database Design** | MySQL, SQL schema design, stored procedures, indexing |
-| **Clean Architecture** | Middleware integration, error handling, async processing |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-> 💬 *"I don't just write code — I engineer solutions that scale."*
-
-<br/>
-
-<a href="https://linkedin.com/in/burukala-mani-reethika">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:manireethikab@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Hire%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/BurukalaManiReethika">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/⚡%20Available%20for-Backend%20Developer%20%7C%20Python%20Engineer%20%7C%20API%20Developer%20Roles-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+*Made with precision, not just passion.*
 
 </div>
