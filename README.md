@@ -1,4 +1,10 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mani%20Reethika%20Burukala&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 <div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Software+Engineer;REST+API+Developer;Flask+Developer;Machine+Learning+Enthusiast"/>
+</p>
 
 # 👋 Hi, I'm Mani Reethika Burukala
 
@@ -156,47 +162,30 @@ Python • Flask • Image Processing • Streamlit
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight"/>
+## 🔥 GitHub Streak
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=BurukalaManiReethika&theme=github-dark-blue&hide_border=true"/>
+</p>
 
-</div>
+## 🏆 GitHub Trophies
 
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+## 📈 Contribution Graph
 
-# 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=github-compact"/>
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=tokyo-night"/>
-
-</div>
-
----
 
 # 🎯 Current Focus
 
