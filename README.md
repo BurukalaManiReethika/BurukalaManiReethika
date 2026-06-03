@@ -2,9 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mani%20Reethika%20Burukala&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <div align="center">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=28&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Software+Engineer;REST+API+Developer;Flask+Developer;Machine+Learning+Enthusiast"/>
-</p>
+
 
 # 👋 Hi, I'm Mani Reethika Burukala
 
