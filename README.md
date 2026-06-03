@@ -168,7 +168,7 @@ Python • Flask • Image Processing • Streamlit
 </p>
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=BurukalaManiReethika&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BurukalaManiReethika)
 
 ## 🏆 GitHub Trophies
 
