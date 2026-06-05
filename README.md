@@ -115,9 +115,9 @@ Flask backend handling image upload, server-side processing, and API serving. RE
 
 <div align="center">
 
-<!-- FIX 1: Use official github-readme-stats (anuraghazra) instead of custom vercel deployments -->
-<img src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ccff&text_color=ffffff&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117" width="40%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ccff&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)
 
 </div>
 
@@ -127,8 +127,7 @@ Flask backend handling image upload, server-side processing, and API serving. RE
 
 <div align="center">
 
-<!-- FIX 2: Use git.io/streak-stats (DenverCoder1) — the reliable streak service -->
-<img src="https://streak-stats.demolab.com?user=BurukalaManiReethika&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ccff&currStreakLabel=00ff88" width="55%"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=BurukalaManiReethika&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ccff&currStreakLabel=00ff88)
 
 </div>
 
@@ -138,19 +137,7 @@ Flask backend handling image upload, server-side processing, and API serving. RE
 
 <div align="center">
 
-<!-- FIX 3: Use ryo-ma's github-profile-trophy — the standard trophy service -->
-<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=darkhub&no-frame=true&column=6&margin-w=10" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<!-- FIX 4: Use Ashutosh00710's github-activity-graph — reliable contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ccff&point=ffffff&hide_border=true" width="100%"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=darkhub&no-frame=true&column=6&margin-w=10)
 
 </div>
 
