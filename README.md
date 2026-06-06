@@ -231,22 +231,11 @@ Building production-ready backend systems and contributing to impactful software
 ⭐ Explore my repositories and connect with me!
 </p>
 
-## 💡 Developer Philosophy
-
-"Clean Architecture, Scalable APIs, Efficient Systems."
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=BurukalaManiReethika&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
 ⭐ If you like my work, consider starring my repositories ⭐
 </p>
-## 💡 Quote
 
-"Great software is built one clean commit at a time."
 
 
 
