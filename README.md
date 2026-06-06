@@ -176,15 +176,25 @@ Building production-ready backend systems and contributing to impactful software
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BurukalaManiReethika&theme=tokyonight" />
 </p>
+##Trophy Version
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=radical&row=1&column=7&margin-w=15" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+## 🐍 Contribution Snake
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BurukalaManiReethika/BurukalaManiReethika/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 ## 🌟 Profile Highlights
 
-🏆 700+ GitHub Contributions
+🏆 724+ GitHub Contributions
 
-🚀 3+ Production Projects
+🚀 3+ Production Applications
 
 ☁️ AWS Deployment Experience
 
@@ -192,20 +202,23 @@ Building production-ready backend systems and contributing to impactful software
 
 🤖 Machine Learning Integration
 
-⚡ REST API Development Expert
+⚡ REST API Development
 
-## 🏆 Achievements
+📈 Performance Optimization
 
-🏅 OOP Using Python Certification
+# 🏅 Achievements
 
-🏅 Programming Fundamentals Using Python
+🥇 Backend Developer
 
-🏅 Generative AI Certification (Google-GUVI)
+🥇 REST API Engineer
 
-🏅 Cisco Python Programming Certification
+🥇 Flask Specialist
 
-🏅 Built & Deployed Multiple Production-Ready Backend Applications
+🥇 AWS Cloud Learner
 
+🥇 Machine Learning Developer
+
+🥇 Open Source Contributor
 ---
 
 ## 🎯 2026 Goals
