@@ -176,17 +176,15 @@ Building production-ready backend systems and contributing to impactful software
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BurukalaManiReethika&theme=tokyonight" />
 </p>
-##Trophy Version
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=radical&row=1&column=7&margin-w=15" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BurukalaManiReethika/BurukalaManiReethika/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=tokyo-night" />
 </p>
 
 ---
