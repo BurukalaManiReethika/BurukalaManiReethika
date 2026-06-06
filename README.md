@@ -178,9 +178,7 @@ Building production-ready backend systems and contributing to impactful software
 </p>
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight
 ## 📈 Contribution Graph
 
 <p align="center">
