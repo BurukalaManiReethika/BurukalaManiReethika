@@ -1,128 +1,150 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mani Reethika Burukala</h1>
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=header&text=Mani%20Reethika%20Burukala&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Python%20Backend%20Developer%20%7C%20REST%20API%20%7C%20Flask%20%7C%20ML%20Integration&descSize=14&descAlignY=62&descColor=aaaaaa" width="100%"/>
+<h3 align="center">
+🚀 Python Backend Developer | Flask Specialist | REST API Engineer | ML Enthusiast
+</h3>
 
-<!-- BADGES -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BurukalaManiReethika.BurukalaManiReethika&color=00ff88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-burukala--mani--reethika-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burukala-mani-reethika)
-[![GitHub](https://img.shields.io/badge/GitHub-BurukalaManiReethika-181717?style=flat&logo=github&logoColor=white)](https://github.com/BurukalaManiReethika)
-[![Email](https://img.shields.io/badge/Email-manireethikab%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manireethikab@gmail.com)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Flask+%7C+REST+APIs+%7C+Microservices;Machine+Learning+Integration;AWS+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Backend+Systems" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-```python
-class ManiReethika:
-    name       = "Mani Reethika Burukala"
-    location   = "Hyderabad, India 🇮🇳"
-    role       = "Python Backend Developer | Software Engineer"
-    education  = "B.Tech ECE — Avanthi Institute (2021–2025) | CGPA: 7.32"
-    experience = "Software Developer Intern @ Infosys Springboard (2026)"
+💡 Passionate Backend Developer focused on building scalable and efficient server-side applications.
 
-    skills = {
-        "languages" : ["Python", "Java", "JavaScript", "C"],
-        "backend"   : ["Flask", "REST API", "Microservices", "Middleware Integration"],
-        "databases" : ["MySQL", "SQL", "PL/SQL", "Query Optimization"],
-        "ml"        : ["Scikit-learn", "Pandas", "NumPy", "NLP", "Cosine Similarity"],
-        "devops"    : ["Docker", "AWS EC2", "AWS S3", "GitHub Actions", "CI/CD"],
-        "tools"     : ["Git", "Postman", "VS Code", "Streamlit"],
-    }
+🔹 Strong experience in:
+- Python Development
+- Flask Framework
+- RESTful API Design
+- MySQL & SQL Optimization
+- Machine Learning Integration
+- Docker & CI/CD
+- AWS Deployment
 
-    currently   = "🟢 Open to Backend / Software Engineering roles"
-    fun_fact    = "I build ML-powered APIs that actually solve real problems 🚀"
-```
+🎯 Current Goal:
+Building production-ready backend systems and contributing to impactful software products.
+
+📍 Hyderabad, India
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/burukala-mani-reethika">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manireethikab@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BurukalaManiReethika">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
 
-**Backend & APIs**
+### Backend Development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+</p>
 
-**Databases**
+### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**Machine Learning**
+### Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
 
-**DevOps & Cloud**
+### Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer — NLP-Based ATS System
-> **⬆ 40% screening efficiency · ⬇ 50% manual effort**
+### 🤖 AI Resume Analyzer
 
-Production-grade backend using Python & Flask to parse and analyze resumes at scale. ATS-optimization engine using NLP & cosine similarity for resume-to-JD match scoring. REST APIs with middleware integration and response optimization.
+📌 NLP-based Resume Screening System
 
-`Python` `Flask` `REST API` `Scikit-learn` `NLP` `GitHub Actions`
+✅ Improved resume screening efficiency by 40%
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00ff88?style=flat&logo=vercel&logoColor=black)](https://lnkd.in/g6gfTnxa)
+✅ Reduced manual effort by 50%
 
----
+🔹 Flask Backend
 
-### 💼 Job Recommendation System — ML + Backend API
-> **⬆ 30% recommendation accuracy · ⬇ 25% API response time**
+🔹 ATS Score Engine
 
-Scalable REST API with Flask for skill-based job recommendations. ML model using cosine similarity for real-time personalized matching. Full-stack integration with Streamlit frontend via RESTful web services.
+🔹 NLP & Cosine Similarity
 
-`Python` `Flask` `REST API` `Cosine Similarity` `Scikit-learn` `Streamlit` `Pandas`
+🔹 REST API Architecture
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00ccff?style=flat&logo=streamlit&logoColor=white)](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
+**Tech Stack:** Python • Flask • Scikit-Learn • NLP • REST APIs
 
 ---
 
-### 👘 Virtual Saree Draping Web App
-> **End-to-end image-processing pipeline · Live on Streamlit Cloud**
+### 💼 Job Recommendation System
 
-Flask backend handling image upload, server-side processing, and API serving. REST APIs for virtual saree overlays with async image transformation. Interactive Streamlit UI integrated with Flask backend APIs.
+📌 Intelligent Job Matching Platform
 
-`Python` `Flask` `REST API` `Image Processing` `Streamlit` `Git`
+✅ Improved recommendation accuracy by 30%
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/BurukalaManiReethika/Streamlit-Saree-Draping-App)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-c084fc?style=flat&logo=streamlit&logoColor=white)](https://centnhhgp7qxka99dyky4j.streamlit.app/)
+✅ Reduced API response time by 25%
 
----
+🔹 Personalized Job Matching
 
-## 📊 GitHub Stats
+🔹 Flask REST API
 
-<div align="center">
+🔹 ML Recommendation Engine
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff88&icon_color=00ccff&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)
+🔹 Streamlit Integration
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)
-
-</div>
+**Tech Stack:** Python • Flask • Streamlit • Scikit-Learn
 
 ---
 
+### 👗 Virtual Saree Draping Application
+
+📌 AI-powered Virtual Try-On System
+
+✅ End-to-End Image Processing Pipeline
+
+✅ Real-time Image Transformation
+
+🔹 Flask Backend
+
+🔹 Image Processing APIs
+
+🔹 Streamlit Deployment
+
+**Tech Stack:** Python • Flask • Image Processing • REST APIs
+
+---
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -131,53 +153,63 @@ Flask backend handling image upload, server-side processing, and API serving. RE
 
 </div>
 
----
+## 📈 GitHub Analytics
 
-## 🏆 GitHub Trophies
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=darkhub&no-frame=true&column=6&margin-w=10)
-
-</div>
-
----
-
-## 💼 Experience
-
-**Software Developer Intern (Virtual)** · Infosys Springboard · *April 2026*
-
-- Hands-on OOP training using Python — Inheritance, Polymorphism, Encapsulation in production-style scenarios
-- Developed mini-projects applying OOP principles; improved backend code reusability
-- Practical exposure to SDLC, Agile methodologies, and industry-standard backend practices
-- Earned certification in OOP using Python — clean architecture patterns
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🎓 Education
+## 🏆 Achievements
 
-**B.Tech — Electronics & Communication Engineering**
-Avanthi Institute of Technology and Engineering · 2021–2025 · CGPA: **7.32 / 10**
+🏅 OOP Using Python Certification
 
----
+🏅 Programming Fundamentals Using Python
 
-## 📜 Certifications
+🏅 Generative AI Certification (Google-GUVI)
 
-| Certificate | Issuer |
-|---|---|
-| Object-Oriented Programming using Python | Infosys Springboard |
-| Programming Fundamentals using Python (Part 1 & 2) | Infosys Springboard |
-| Generative AI | GUVI × Google |
-| Python Programming | Cisco Networking Academy |
+🏅 Cisco Python Programming Certification
+
+🏅 Built & Deployed Multiple Production-Ready Backend Applications
 
 ---
 
-<div align="center">
+## 🎯 2026 Goals
 
-*🟢 Open to Backend Developer & Software Engineer roles*
+✅ Master System Design
 
-**📧 manireethikab@gmail.com · 📍 Hyderabad, India**
+✅ Advanced Backend Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=80&section=footer" width="100%"/>
+✅ FastAPI & Django
 
-</div>
+✅ AWS Cloud Architecture
+
+✅ Open Source Contributions
+
+✅ Software Engineer Role at Top Product Company
+
+---
+
+## 💡 Developer Philosophy
+
+"Clean Architecture, Scalable APIs, Efficient Systems."
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BurukalaManiReethika&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories ⭐
+</p>
+
+
+
+
