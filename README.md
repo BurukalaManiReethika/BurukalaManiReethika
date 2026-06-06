@@ -7,7 +7,23 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Flask+%7C+REST+APIs+%7C+Microservices;Machine+Learning+Integration;AWS+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Backend+Systems" />
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BurukalaManiReethika&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
+## 💼 Open To Opportunities
+
+✔ Software Engineer
+
+✔ Python Developer
+
+✔ Backend Developer
+
+✔ Flask Developer
+
+✔ REST API Developer
+
+📧 manireethikab@gmail.com
 ---
 
 ## 👩‍💻 About Me
@@ -156,15 +172,27 @@ Building production-ready backend systems and contributing to impactful software
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BurukalaManiReethika&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ---
+## 🌟 Profile Highlights
+
+🏆 700+ GitHub Contributions
+
+🚀 3+ Production Projects
+
+☁️ AWS Deployment Experience
+
+🐳 Docker & CI/CD Knowledge
+
+🤖 Machine Learning Integration
+
+⚡ REST API Development Expert
 
 ## 🏆 Achievements
 
@@ -195,6 +223,13 @@ Building production-ready backend systems and contributing to impactful software
 ✅ Software Engineer Role at Top Product Company
 
 ---
+<h3 align="center">
+🚀 Building Scalable Backend Solutions with Python
+</h3>
+
+<p align="center">
+⭐ Explore my repositories and connect with me!
+</p>
 
 ## 💡 Developer Philosophy
 
@@ -209,6 +244,9 @@ Building production-ready backend systems and contributing to impactful software
 <p align="center">
 ⭐ If you like my work, consider starring my repositories ⭐
 </p>
+## 💡 Quote
+
+"Great software is built one clean commit at a time."
 
 
 
