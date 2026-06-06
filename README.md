@@ -176,9 +176,12 @@ Building production-ready backend systems and contributing to impactful software
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BurukalaManiReethika&theme=tokyonight" />
 </p>
+
 ## 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
