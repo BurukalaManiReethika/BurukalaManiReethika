@@ -179,9 +179,11 @@ Building production-ready backend systems and contributing to impactful software
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ## 📈 Contribution Graph
 
 <p align="center">
