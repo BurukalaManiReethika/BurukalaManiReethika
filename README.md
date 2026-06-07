@@ -177,10 +177,23 @@ Building production-ready backend systems and contributing to impactful software
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BurukalaManiReethika&theme=tokyonight" />
 </p>
 
-![Commits](https://img.shields.io/badge/Total%20Commits-724-0891b2?style=flat-square&logo=github)
-![Streak](https://img.shields.io/badge/Longest%20Streak-15%20days-10b981?style=flat-square&logo=fire)
-![Projects](https://img.shields.io/badge/Live%20Projects-3%2B-8b5cf6?style=flat-square&logo=vercel)
-![Certs](https://img.shields.io/badge/Certifications-4-f59e0b?style=flat-square&logo=coursera)
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/🏆%20Commits-724-0891b2?style=for-the-badge)
+![Streak](https://img.shields.io/badge/🔥%20Streak-15%20Days-e11d48?style=for-the-badge)
+![Projects](https://img.shields.io/badge/🚀%20Projects-3%20Live-7c3aed?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/🐍%20Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/⚗️%20Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ML](https://img.shields.io/badge/🤖%20ML%20Integrated-3%20Apps-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Certs](https://img.shields.io/badge/📜%20Certifications-4-10b981?style=for-the-badge)
+![AWS](https://img.shields.io/badge/☁️%20AWS%20Deployed-EC2%20%26%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/🐳%20Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 ## 📈 Contribution Graph
 
 <p align="center">
