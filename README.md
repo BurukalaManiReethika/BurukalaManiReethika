@@ -177,15 +177,10 @@ Building production-ready backend systems and contributing to impactful software
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BurukalaManiReethika&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=nord&no-frame=true&no-bg=false&column=6&margin-w=6" alt="trophies" />
-</a>
-
-</div>
+![Commits](https://img.shields.io/badge/Total%20Commits-724-0891b2?style=flat-square&logo=github)
+![Streak](https://img.shields.io/badge/Longest%20Streak-15%20days-10b981?style=flat-square&logo=fire)
+![Projects](https://img.shields.io/badge/Live%20Projects-3%2B-8b5cf6?style=flat-square&logo=vercel)
+![Certs](https://img.shields.io/badge/Certifications-4-f59e0b?style=flat-square&logo=coursera)
 ## 📈 Contribution Graph
 
 <p align="center">
