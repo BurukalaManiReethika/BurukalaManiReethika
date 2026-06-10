@@ -106,59 +106,41 @@ Building production-ready backend systems and contributing to impactful software
 
 ### 🤖 AI Resume Analyzer
 
-📌 NLP-based Resume Screening System
+### 🔁 [CI/CD Pipeline for Web Application](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker)
+> Fully automated CI/CD pipeline using **GitHub Actions** and **Docker**
 
-✅ Improved resume screening efficiency by 40%
-
-✅ Reduced manual effort by 50%
-
-🔹 Flask Backend
-
-🔹 ATS Score Engine
-
-🔹 NLP & Cosine Similarity
-
-🔹 REST API Architecture
-
-**Tech Stack:** Python • Flask • Scikit-Learn • NLP • REST APIs
+- Containerized applications for consistent, reproducible deployments
+- Automated testing and deployment workflows to reduce manual errors
+- **Tech:** Docker · GitHub Actions · CI/CD · DevOps
 
 ---
 
-### 💼 Job Recommendation System
+### 🤖 [AI Resume Analyzer](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
+> NLP-based resume screening system with ATS optimization
 
-📌 Intelligent Job Matching Platform
-
-✅ Improved recommendation accuracy by 30%
-
-✅ Reduced API response time by 25%
-
-🔹 Personalized Job Matching
-
-🔹 Flask REST API
-
-🔹 ML Recommendation Engine
-
-🔹 Streamlit Integration
-
-**Tech Stack:** Python • Flask • Streamlit • Scikit-Learn
+- Backend system using Python and Flask to process and extract resume data
+- ATS engine that calculates resume-to-job match scores using NLP techniques
+- **Tech:** Python · Flask · NLP · Machine Learning · Text Processing
 
 ---
 
-### 👗 Virtual Saree Draping Application
+### 💼 [Job Recommendation System](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API) · [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
+> ML-powered job recommendation REST API with live Streamlit demo
 
-📌 AI-powered Virtual Try-On System
+- REST API recommending jobs based on user skill sets using cosine similarity
+- End-to-end ML integration deployed on Streamlit
+- **Tech:** Python · Flask · Scikit-learn · Cosine Similarity · REST API · Streamlit
 
-✅ End-to-End Image Processing Pipeline
+---
 
-✅ Real-time Image Transformation
+### 🌐 [BLR Startup Arena](https://github.com/BurukalaManiReethika/BLR-Startup-Arena) · [Live Site](https://www.blrstartuparena.com/)
+> Full-stack platform connecting Bengaluru startups, investors, and talent
 
-🔹 Flask Backend
+- Dynamic backend APIs for user registration, listings, and search
+- Production-ready deployment with a live domain
+- **Tech:** Python · Flask · REST API · JavaScript · HTML/CSS
 
-🔹 Image Processing APIs
 
-🔹 Streamlit Deployment
-
-**Tech Stack:** Python • Flask • Image Processing • REST APIs
 
 ---
 ## 🔥 GitHub Streak
@@ -259,6 +241,12 @@ Building production-ready backend systems and contributing to impactful software
 <p align="center">
 ⭐ If you like my work, consider starring my repositories ⭐
 </p>
+
+
+
+
+
+
 
 
 
