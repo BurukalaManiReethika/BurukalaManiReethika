@@ -102,43 +102,67 @@ Building production-ready backend systems and contributing to impactful software
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
+## 🚀 Top Projects
 
-### 🔁 [CI/CD Pipeline for Web Application](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker)
-> Fully automated CI/CD pipeline using **GitHub Actions** and **Docker**
+### 1. 💼 [Job Recommendation System](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API)
+ML-powered job recommendation REST API with a live Streamlit demo.
+- REST API recommending jobs based on user skill sets using cosine similarity
+- End-to-end ML integration deployed on Streamlit
+- **Tech:** Python · Flask · Scikit-learn · Cosine Similarity · REST API · Streamlit
+- 🔗 [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
 
-- Containerized applications for consistent, reproducible deployments
-- Automated testing and deployment workflows to reduce manual errors
-- **Tech:** Docker · GitHub Actions · CI/CD · DevOps
-
----
-
-### 🤖 [AI Resume Analyzer](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
-> NLP-based resume screening system with ATS optimization
-
+### 2. 🤖 [AI Resume Analyzer](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
+NLP-based resume screening system with ATS optimization.
 - Backend system using Python and Flask to process and extract resume data
 - ATS engine that calculates resume-to-job match scores using NLP techniques
 - **Tech:** Python · Flask · NLP · Machine Learning · Text Processing
 
----
-
-### 💼 [Job Recommendation System](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API) · [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
-> ML-powered job recommendation REST API with live Streamlit demo
-
-- REST API recommending jobs based on user skill sets using cosine similarity
-- End-to-end ML integration deployed on Streamlit
-- **Tech:** Python · Flask · Scikit-learn · Cosine Similarity · REST API · Streamlit
-
----
-
-### 🌐 [BLR Startup Arena](https://github.com/BurukalaManiReethika/BLR-Startup-Arena) · [Live Site](https://www.blrstartuparena.com/)
-> Full-stack platform connecting Bengaluru startups, investors, and talent
-
+### 3. 🌐 [BLR Startup Arena](https://github.com/BurukalaManiReethika/BLR-Startup-Arena)
+Full-stack platform connecting Bengaluru startups, investors, and talent.
 - Dynamic backend APIs for user registration, listings, and search
 - Production-ready deployment with a live domain
 - **Tech:** Python · Flask · REST API · JavaScript · HTML/CSS
+- 🔗 [Live Site](https://www.blrstartuparena.com/)
+
+### 4. 🧭 [CareerOS](https://github.com/BurukalaManiReethika/CareerOS)
+A comprehensive career management platform for students and developers.
+- Tracks learning progress, job applications, and interview prep
+- Includes resume building and portfolio generation tools
+- **Tech:** HTML · Backend integration
+
+### 5. 🔁 [CI/CD Pipeline for Web Application](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker)
+Fully automated CI/CD pipeline using GitHub Actions and Docker.
+- Containerized applications for consistent, reproducible deployments
+- Automated testing and deployment workflows to reduce manual errors
+- **Tech:** Docker · GitHub Actions · CI/CD · DevOps
+
+### 6. 🎓 [Student Management System](https://github.com/BurukalaManiReethika/student-management-system)
+A web-based system for managing student records.
+- Includes role-based login system
+- **Tech:** HTML
+- 🔐 Demo login — Username: `admin`, Password: `admin123`
+
+### 7. 🛠️ [Ultimate Dev Toolkit](https://github.com/BurukalaManiReethika/ultimate-dev-toolkit)
+A collection of developer utilities and tools in one place.
+- **Tech:** HTML
+
+### 8. 🧩 [Coding Challenge Platform](https://github.com/BurukalaManiReethika/Coding-Challenge-Platform)
+A platform for hosting and solving coding challenges.
+- **Tech:** JavaScript
+
+### 9. 🌦️ [Weather App](https://github.com/BurukalaManiReethika/weather-app)
+A simple weather forecasting web application.
+- **Tech:** JavaScript
+
+### 10. 🖥️ [DotNetSampleProject](https://github.com/BurukalaManiReethika/DotNetSampleProject)
+A sample backend project demonstrating .NET fundamentals.
+- **Tech:** C#
+
+---
+
+
+
 
 
 
@@ -238,9 +262,66 @@ Building production-ready backend systems and contributing to impactful software
 </p>
 
 
-<p align="center">
-⭐ If you like my work, consider starring my repositories ⭐
-</p>
+
+
+## 🚀 Top Projects
+
+### 1. 💼 [Job Recommendation System](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API)
+ML-powered job recommendation REST API with a live Streamlit demo.
+- REST API recommending jobs based on user skill sets using cosine similarity
+- End-to-end ML integration deployed on Streamlit
+- **Tech:** Python · Flask · Scikit-learn · Cosine Similarity · REST API · Streamlit
+- 🔗 [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
+
+### 2. 🤖 [AI Resume Analyzer](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
+NLP-based resume screening system with ATS optimization.
+- Backend system using Python and Flask to process and extract resume data
+- ATS engine that calculates resume-to-job match scores using NLP techniques
+- **Tech:** Python · Flask · NLP · Machine Learning · Text Processing
+
+### 3. 🌐 [BLR Startup Arena](https://github.com/BurukalaManiReethika/BLR-Startup-Arena)
+Full-stack platform connecting Bengaluru startups, investors, and talent.
+- Dynamic backend APIs for user registration, listings, and search
+- Production-ready deployment with a live domain
+- **Tech:** Python · Flask · REST API · JavaScript · HTML/CSS
+- 🔗 [Live Site](https://www.blrstartuparena.com/)
+
+### 4. 🧭 [CareerOS](https://github.com/BurukalaManiReethika/CareerOS)
+A comprehensive career management platform for students and developers.
+- Tracks learning progress, job applications, and interview prep
+- Includes resume building and portfolio generation tools
+- **Tech:** HTML · Backend integration
+
+### 5. 🔁 [CI/CD Pipeline for Web Application](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker)
+Fully automated CI/CD pipeline using GitHub Actions and Docker.
+- Containerized applications for consistent, reproducible deployments
+- Automated testing and deployment workflows to reduce manual errors
+- **Tech:** Docker · GitHub Actions · CI/CD · DevOps
+
+### 6. 🎓 [Student Management System](https://github.com/BurukalaManiReethika/student-management-system)
+A web-based system for managing student records.
+- Includes role-based login system
+- **Tech:** HTML
+- 🔐 Demo login — Username: `admin`, Password: `admin123`
+
+### 7. 🛠️ [Ultimate Dev Toolkit](https://github.com/BurukalaManiReethika/ultimate-dev-toolkit)
+A collection of developer utilities and tools in one place.
+- **Tech:** HTML
+
+### 8. 🧩 [Coding Challenge Platform](https://github.com/BurukalaManiReethika/Coding-Challenge-Platform)
+A platform for hosting and solving coding challenges.
+- **Tech:** JavaScript
+
+### 9. 🌦️ [Weather App](https://github.com/BurukalaManiReethika/weather-app)
+A simple weather forecasting web application.
+- **Tech:** JavaScript
+
+### 10. 🖥️ [DotNetSampleProject](https://github.com/BurukalaManiReethika/DotNetSampleProject)
+A sample backend project demonstrating .NET fundamentals.
+- **Tech:** C#
+
+---
+
 
 
 
