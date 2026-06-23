@@ -169,6 +169,44 @@ class ManiReethika:
 
 ---
 
+### 🤖 AI Resume Analyzer
+
+> *Full-stack ATS scoring tool — upload a resume, paste a job description, get an instant match report*
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer4)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://ai-resume-analyzer4.onrender.com/)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  AI RESUME ANALYZER                                             │
+│─────────────────────────────────────────────────────────────────│
+│  ✅ Resume upload (PDF & DOCX) with secure parsing pipeline     │
+│  ✅ ATS score engine — checks formatting, keywords & structure  │
+│  ✅ Keyword matcher against job description (NLP-based)         │
+│  ✅ User auth — register / login / session with hashed passwords│
+│  ✅ Personal dashboard storing full analysis history per user   │
+│  ✅ Deployed live on Render with 5 MB upload guard              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Text_Processing-F7931E?style=flat-square)
+![JWT Auth](https://img.shields.io/badge/Auth-Session_%26_Hashing-black?style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+**Highlights:**
+- Built a multi-module NLP pipeline: text extraction (`resume_parser`) → ATS scoring (`ats_score`) → keyword gap analysis (`keyword_matcher`)
+- Implemented full user auth with Werkzeug password hashing, session management, and a `login_required` decorator protecting private routes
+- Persisted per-user analysis history via SQLAlchemy ORM with cascading deletes, giving every user a private dashboard of past results
+- Files deleted from disk immediately after parsing — zero lingering PII stored on the server
+
+---
+
 ## 🗂️ More Projects
 
 | Project | Description | Stack | Links |
@@ -258,6 +296,103 @@ class ManiReethika:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0D1117&height=120&section=footer&text=Building+Scalable+Backends+%E2%80%94+One+Commit+at+a+Time&fontSize=14&fontColor=8b949e&animation=fadeIn" />
 
 </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Mani%20Reethika%20Burukala&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20.NET%20Engineer%20%7C%20ML%20Enthusiast&descSize=16&descColor=8b949e&animation=fadeIn" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Building production-grade backends. One endpoint at a time. ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Flask+%7C+.NET+Core+%7C+RESTful+APIs;JWT+Auth+%7C+MVC+%7C+Design+Patterns;Docker+%7C+CI%2FCD+%7C+AWS+Deployment;NLP+%7C+Machine+Learning+Integration;Writing+clean%2C+scalable+code+daily.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## `whoami`
+
+```python
+class ManiReethika:
+    name       = "Mani Reethika Burukala"
+    role       = "Software Engineer · Backend Developer · ML Enthusiast"
+    location   = "Hyderabad, India 🇮🇳"
+    email      = "manireethikab@gmail.com"
+    
+    stack      = {
+        "languages"  : ["Python", "C#", "Java", "JavaScript", "C"],
+        "backend"    : ["Flask", ".NET Core Web API", "RESTful APIs", "JWT Auth", "Microservices"],
+        "frontend"   : ["React", "HTML", "CSS"],
+        "database"   : ["MySQL", "SQL", "Entity Framework Core", "PL/SQL"],
+        "devops"     : ["Docker", "GitHub Actions", "AWS EC2 & S3", "Render", "Vercel"],
+        "ml"         : ["Scikit-learn", "Pandas", "NumPy", "NLP", "Text Processing"],
+        "testing"    : ["Postman", "Swagger", "Unit Testing", "Automated Testing"],
+    }
+    
+    currently  = "Building production-ready backend systems"
+    goal_2026  = "Software Engineer @ Top Product Company 🚀"
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MVC](https://img.shields.io/badge/MVC_Architecture-0078D7?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**ML & AI**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+</div>
+
+---
+
+
+
+
+
+
 
 
 
