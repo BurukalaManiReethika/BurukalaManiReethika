@@ -11,19 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=BurukalaManiReethika&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-## 💼 Open To Opportunities
-
-✔ Software Engineer
-
-✔ Python Developer
-
-✔ Backend Developer
-
-✔ Flask Developer
-
-✔ REST API Developer
-
-📧 manireethikab@gmail.com
 ---
 
 ## 👩‍💻 About Me
