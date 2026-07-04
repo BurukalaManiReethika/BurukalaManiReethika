@@ -241,14 +241,15 @@ class ManiReethika:
 
 ---
 
-
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/BurukalaManiReethika)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=onedark&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/BurukalaManiReethika)
 
 ## 📊 GitHub Stats & Streak
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="450"/>
+
+<img src="https://streak-stats.demolab.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450"/>
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
