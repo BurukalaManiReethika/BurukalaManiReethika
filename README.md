@@ -239,11 +239,11 @@ class ManiReethika:
 | Generative AI | GUVI (Google Program) |
 | Python Programming | Cisco Networking Academy |
 
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/BurukalaManiReethika)
 
-## 📊 GitHub Stats & Streak
-![Stats](https://github-readme-stats-sigma-eight.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=radical&hide_border=true)
+
+## 📊 GitHub  Streak
+[Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
+
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
