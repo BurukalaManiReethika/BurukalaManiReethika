@@ -241,18 +241,20 @@ class ManiReethika:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 🏆 Trophies
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/BurukalaManiReethika)
 
-<img src="https://streak-stats.demolab.com/?user=BurukalaManiReethika&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+## 📊 GitHub Stats & Streak
 
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
 
 ## 🏆 Profile Snapshot
 
@@ -288,16 +290,7 @@ class ManiReethika:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurukalaManiReethika)
 
 </div>
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/BurukalaManiReethika)
 
-## 📊 GitHub Stats & Streak
-![Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
-
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
 
 
 
