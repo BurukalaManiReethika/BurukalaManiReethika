@@ -242,7 +242,7 @@ class ManiReethika:
 
 
 ## 📊 GitHub  Streak
-[Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
+https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true
 
 ## 📈 Contribution Graph
 
