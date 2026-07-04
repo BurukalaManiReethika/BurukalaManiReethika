@@ -248,10 +248,7 @@ class ManiReethika:
 
 ## 📊 GitHub Stats & Streak
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
