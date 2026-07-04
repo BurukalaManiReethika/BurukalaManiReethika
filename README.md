@@ -288,6 +288,16 @@ class ManiReethika:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurukalaManiReethika)
 
 </div>
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/BurukalaManiReethika)
+
+## 📊 GitHub Stats & Streak
+![Stats](https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
 
 
 
