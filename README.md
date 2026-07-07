@@ -271,10 +271,6 @@ class ManiReethika:
 
 ---
 
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
-
 
 ## 🐍 Contribution Snake
 
