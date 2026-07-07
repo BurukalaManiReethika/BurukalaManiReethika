@@ -55,6 +55,12 @@ class ManiReethika:
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,cs,java,js,c,flask,dotnet,mysql,react,html,css,docker,githubactions,aws,vercel,git,github,postman,vscode,pycharm&perline=10" />
+
+</div>
+
+<div align="center">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -91,6 +97,29 @@ class ManiReethika:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&row=1" />
 
 </div>
 
@@ -239,14 +268,27 @@ class ManiReethika:
 | Generative AI | GUVI (Google Program) |
 | Python Programming | Cisco Networking Academy |
 
-
+---
 
 ## 🔥 GitHub Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
+
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BurukalaManiReethika/BurukalaManiReethika/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> Note: the snake animation needs a one-time GitHub Actions workflow (`Platane/snk`) added to this repo to generate the SVG — happy to provide that workflow file if you'd like it wired up.
+
+---
 
 ## 🏆 Profile Snapshot
 
@@ -283,57 +325,8 @@ class ManiReethika:
 
 </div>
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0D1117&height=120&section=footer" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
