@@ -274,9 +274,6 @@ class ManiReethika:
 
 ![Streak](https://streak-stats.demolab.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true)
 
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=react-dark&hide_border=true)
 
 ## 🐍 Contribution Snake
 
