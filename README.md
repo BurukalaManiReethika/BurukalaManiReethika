@@ -1,4 +1,4 @@
-
+<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Mani%20Reethika%20Burukala&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20.NET%20Engineer%20%7C%20ML%20Enthusiast&descSize=16&descColor=8b949e&animation=fadeIn" />
