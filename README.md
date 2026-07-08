@@ -102,9 +102,6 @@ class ManiReethika:
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -114,16 +111,9 @@ class ManiReethika:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&row=1" />
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
