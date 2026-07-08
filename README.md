@@ -270,9 +270,7 @@ class ManiReethika:
 
 </div>
 
-> Note: the snake animation needs a one-time GitHub Actions workflow (`Platane/snk`) added to this repo to generate the SVG — happy to provide that workflow file if you'd like it wired up.
 
----
 
 ## 🏆 Profile Snapshot
 
