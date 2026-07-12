@@ -1,0 +1,27 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # runs daily at 18:00 UTC — adjust to your timezone
+  workflow_dispatch:       # lets you trigger it manually too
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update log file
+        run: |
+          mkdir -p streak-log
+          echo "$(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> streak-log/log.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak-log/log.txt
+          git commit -m "Daily update: $(date -u +'%Y-%m-%d')"
+          git push
