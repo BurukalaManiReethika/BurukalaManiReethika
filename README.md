@@ -226,6 +226,14 @@ class ManiReethika:
 - Files deleted from disk immediately after parsing — zero lingering PII stored on the server
 
 ---
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 
 ## 🗂️ More Projects
 
