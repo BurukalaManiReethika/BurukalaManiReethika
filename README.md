@@ -233,6 +233,15 @@ class ManiReethika:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=tokyo-night&hide_border=true"/>
 
 </p>
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 
 ## 🗂️ More Projects
