@@ -1,271 +1,177 @@
-<h1 align="center">Hi there, I'm Mani Reethika Burukala 👋</h1>
-<h3 align="center">🚀 Python Backend Developer | Flask Specialist | REST API Engineer | ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Flask+%7C+REST+APIs+%7C+Microservices;Machine+Learning+Integration;AWS+%7C+Docker+%7C+CI%2FCD;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c2ff&height=220&section=header&text=Mani%20Reethika%20Burukala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Flask%20%7C%20REST%20APIs%20%7C%20ML&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/burukala-mani-reethika">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manireethikab@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/BurukalaManiReethika">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Crafting+scalable+backend+systems+%F0%9F%9A%80;Flask+%7C+REST+APIs+%7C+Microservices+%E2%9A%A1;Bridging+ML+models+into+production+%F0%9F%A4%96;AWS+%7C+Docker+%7C+CI%2FCD+%E2%98%81%EF%B8%8F;Open+to+Software+Engineer+roles+%F0%9F%92%BC" />
 
-<p align="center">
-  📍 Hyderabad, India &nbsp;|&nbsp; 🎯 Currently Focusing &nbsp;|&nbsp; 💼 Open to Software Engineer / Backend / Flask Developer roles
-</p>
+<br/>
 
----
+<a href="https://linkedin.com/in/burukala-mani-reethika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:manireethikab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/BurukalaManiReethika"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=BurukalaManiReethika&style=for-the-badge&color=00c2ff&label=PROFILE+VIEWS"/>
 
-### 👩‍💻 About Me
+</div>
 
-I'm a **Backend Developer** passionate about designing scalable, production-ready server-side systems. I specialize in **Python + Flask**, RESTful API design, and integrating **Machine Learning** into real products — deployed with **Docker**, **CI/CD**, and **AWS**.
+<br/>
 
-- 🔭 Currently building production-grade backend systems and REST APIs
-- 🧠 Integrating ML models into backend services for smarter applications
-- ☁️ Deploying and automating with Docker, GitHub Actions, and AWS
-- 🌱 Leveling up in System Design, FastAPI, Django, and Cloud Architecture
-- 🎯 2026 Goal: Land a Software Engineer role at a top product company
-- ⚡ Fun fact: I enjoy turning messy data pipelines into clean REST endpoints
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+## 🧬 About This Repo
 
-### 🛠️ Tech Stack
+```yaml
+name: Mani Reethika Burukala
+role: Python Backend Developer | Flask Specialist | REST API Engineer
+location: Hyderabad, India
+status: 🎯 Focusing — Open to Software Engineer / Backend roles
+mission: "Building production-ready backend systems that scale."
+current_focus:
+  - System Design mastery
+  - FastAPI & Django
+  - AWS Cloud Architecture
+  - Open Source Contributions
+fun_fact: "I treat messy data pipelines like a personal challenge 😄"
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,flask,mysql,docker,aws,git,github,vscode&perline=11" />
-</p>
+<br/>
 
 <table align="center">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="55%">
 
-**Languages**
-- Python, Java, C, JavaScript
+### 👩‍💻 About Me
 
-</td>
-<td valign="top" width="33%">
+💡 Passionate **Backend Developer** focused on building scalable, efficient, and secure server-side applications.
 
-**Backend & APIs**
-- Flask · REST APIs · Microservices
+🔹 **Core Strengths**
+- Python Development & Clean Architecture
+- Flask Framework & RESTful API Design
+- MySQL & SQL Query Optimization
+- Machine Learning model integration
+- Docker containerization & CI/CD pipelines
+- AWS deployment & cloud infrastructure
 
-</td>
-<td valign="top" width="33%">
+🎯 **Current Goal** — Building production-ready backend systems and contributing to impactful software products.
 
-**Data & ML**
-- Scikit-learn · Pandas · NumPy · NLP
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Database**
-- MySQL · SQL Optimization
+📍 Hyderabad, India · 📧 manireethikab@gmail.com
 
 </td>
-<td valign="top">
+<td valign="top" width="45%">
 
-**Cloud & DevOps**
-- AWS · Docker · GitHub Actions · CI/CD
+### 📊 Quick Stats
 
-</td>
-<td valign="top">
-
-**Tools**
-- Git · GitHub · VS Code · Postman
+<img src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 🛠️ Tech Arsenal
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🤖 [**AI Resume Analyzer**](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer) | NLP-based resume screening system with ATS-style match scoring | Python · Flask · NLP · ML |
-| 💼 [**Job Recommendation System**](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API) · [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/) | REST API recommending jobs via cosine similarity, deployed on Streamlit | Python · Flask · Scikit-learn · REST API |
-| 🌐 [**BLR Startup Arena**](https://github.com/BurukalaManiReethika/BLR-Startup-Arena) · [Live Site](https://www.blrstartuparena.com/) | Full-stack platform connecting Bengaluru startups, investors & talent | Python · Flask · REST API · JS · HTML/CSS |
-| 🔁 [**CI/CD Pipeline for Web App**](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker) | Fully automated CI/CD pipeline with containerized, reproducible deploys | Docker · GitHub Actions · CI/CD |
-| 🎓 [**CareerOS**](https://github.com/BurukalaManiReethika/CareerOS) | Career management platform: learning tracking, job apps, resume & portfolio tools | HTML · Flask · Python |
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,flask,mysql,docker,aws,git,github,vscode&perline=11"/>
 
-### 📊 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Backend%20Dev-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20API-025694?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Scikit](https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=tokyo-night&hide_border=true" />
-</p>
+<br/>
 
----
-
-### 🏆 Achievements & Highlights
-
-🥇 Backend Developer &nbsp;|&nbsp; 🥇 REST API Engineer &nbsp;|&nbsp; 🥇 Flask Specialist &nbsp;|&nbsp; 🥇 AWS Cloud Learner &nbsp;|&nbsp; 🥇 Machine Learning Developer
-
-- 🏆 724+ GitHub Contributions
-- 🚀 3+ Production Applications shipped
-- ☁️ Hands-on AWS Deployment Experience
-- 🐳 Docker & CI/CD Automation Knowledge
-- 🤖 Machine Learning Integration into backend systems
-
-**🎯 2026 Goals:** System Design mastery · Advanced Backend Engineering · FastAPI & Django · AWS Cloud Architecture · Open Source Contributions · Software Engineer Role at a Top Product Company
-
----
-
-<p align="center">
-  ⭐ <b>Explore my repositories and let's connect!</b> ⭐<br/>
-  If you like my work, consider starring a repo 🌟
-</p><h1 align="center">Hi there, I'm Mani Reethika Burukala 👋</h1>
-<h3 align="center">🚀 Python Backend Developer | Flask Specialist | REST API Engineer | ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Flask+%7C+REST+APIs+%7C+Microservices;Machine+Learning+Integration;AWS+%7C+Docker+%7C+CI%2FCD;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/burukala-mani-reethika">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manireethikab@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/BurukalaManiReethika">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  📍 Hyderabad, India &nbsp;|&nbsp; 🎯 Currently Focusing &nbsp;|&nbsp; 💼 Open to Software Engineer / Backend / Flask Developer roles
-</p>
-
----
-
-### 👩‍💻 About Me
-
-I'm a **Backend Developer** passionate about designing scalable, production-ready server-side systems. I specialize in **Python + Flask**, RESTful API design, and integrating **Machine Learning** into real products — deployed with **Docker**, **CI/CD**, and **AWS**.
-
-- 🔭 Currently building production-grade backend systems and REST APIs
-- 🧠 Integrating ML models into backend services for smarter applications
-- ☁️ Deploying and automating with Docker, GitHub Actions, and AWS
-- 🌱 Leveling up in System Design, FastAPI, Django, and Cloud Architecture
-- 🎯 2026 Goal: Land a Software Engineer role at a top product company
-- ⚡ Fun fact: I enjoy turning messy data pipelines into clean REST endpoints
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,flask,mysql,docker,aws,git,github,vscode&perline=11" />
-</p>
+## 🚀 Featured Builds
 
 <table align="center">
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Languages**
-- Python, Java, C, JavaScript
+### 🤖 [AI Resume Analyzer](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
+> NLP-based resume screening system with ATS-style match scoring
 
-</td>
-<td valign="top" width="33%">
-
-**Backend & APIs**
-- Flask · REST APIs · Microservices
+`Python` `Flask` `NLP` `Machine Learning`
 
 </td>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-**Data & ML**
-- Scikit-learn · Pandas · NumPy · NLP
+### 💼 [Job Recommendation System](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API)
+> ML-powered REST API recommending jobs via cosine similarity — [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
+
+`Python` `Flask` `Scikit-learn` `REST API`
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Database**
-- MySQL · SQL Optimization
+### 🌐 [BLR Startup Arena](https://github.com/BurukalaManiReethika/BLR-Startup-Arena)
+> Full-stack platform connecting startups, investors & talent — [Live Site](https://www.blrstartuparena.com/)
 
-</td>
-<td valign="top">
-
-**Cloud & DevOps**
-- AWS · Docker · GitHub Actions · CI/CD
+`Python` `Flask` `REST API` `JS` `HTML/CSS`
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Tools**
-- Git · GitHub · VS Code · Postman
+### 🔁 [CI/CD Pipeline](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker)
+> Fully automated, containerized CI/CD pipeline for web apps
+
+`Docker` `GitHub Actions` `CI/CD`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 📈 Activity & Streaks
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🤖 [**AI Resume Analyzer**](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer) | NLP-based resume screening system with ATS-style match scoring | Python · Flask · NLP · ML |
-| 💼 [**Job Recommendation System**](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API) · [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/) | REST API recommending jobs via cosine similarity, deployed on Streamlit | Python · Flask · Scikit-learn · REST API |
-| 🌐 [**BLR Startup Arena**](https://github.com/BurukalaManiReethika/BLR-Startup-Arena) · [Live Site](https://www.blrstartuparena.com/) | Full-stack platform connecting Bengaluru startups, investors & talent | Python · Flask · REST API · JS · HTML/CSS |
-| 🔁 [**CI/CD Pipeline for Web App**](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker) | Fully automated CI/CD pipeline with containerized, reproducible deploys | Docker · GitHub Actions · CI/CD |
-| 🎓 [**CareerOS**](https://github.com/BurukalaManiReethika/CareerOS) | Career management platform: learning tracking, job apps, resume & portfolio tools | HTML · Flask · Python |
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=radical&hide_border=true"/>
 
-### 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=redical&hide_border=true"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BurukalaManiReethika&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurukalaManiReethika&layout=compact&theme=radical&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurukalaManiReethika&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurukalaManiReethika&theme=tokyo-night&hide_border=true" />
-</p>
+<br/>
 
----
+## 🏅 Trophy Case
 
-### 🏆 Achievements & Highlights
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BurukalaManiReethika&theme=radical&no-frame=true&row=1&column=7"/>
+</div>
 
-🥇 Backend Developer &nbsp;|&nbsp; 🥇 REST API Engineer &nbsp;|&nbsp; 🥇 Flask Specialist &nbsp;|&nbsp; 🥇 AWS Cloud Learner &nbsp;|&nbsp; 🥇 Machine Learning Developer
+<br/>
 
-- 🏆 724+ GitHub Contributions
-- 🚀 3+ Production Applications shipped
-- ☁️ Hands-on AWS Deployment Experience
-- 🐳 Docker & CI/CD Automation Knowledge
-- 🤖 Machine Learning Integration into backend systems
+## 🎯 2026 Roadmap
 
-**🎯 2026 Goals:** System Design mastery · Advanced Backend Engineering · FastAPI & Django · AWS Cloud Architecture · Open Source Contributions · Software Engineer Role at a Top Product Company
+- [x] Master System Design fundamentals
+- [x] Advanced Backend Engineering patterns
+- [ ] FastAPI & Django deep dive
+- [ ] AWS Cloud Architecture certification
+- [ ] Consistent Open Source Contributions
+- [ ] Land a Software Engineer role at a top product company
 
----
+<br/>
 
-<p align="center">
-  ⭐ <b>Explore my repositories and let's connect!</b> ⭐<br/>
-  If you like my work, consider starring a repo 🌟
-</p>
+<div align="center">
+
+### 💬 Let's Build Something Great Together
+
+⭐ If you like my work, consider starring a repo — it genuinely makes my day.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:0f2027&height=120&section=footer"/>
+
+</div>
