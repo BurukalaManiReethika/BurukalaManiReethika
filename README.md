@@ -88,48 +88,7 @@ fun_fact: "I treat messy data pipelines like a personal challenge 😄"
 
 <br/>
 
-## 🚀 Featured Builds
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [AI Resume Analyzer](https://github.com/BurukalaManiReethika/AI-Resume-Analyzer)
-> NLP-based resume screening system with ATS-style match scoring
-
-`Python` `Flask` `NLP` `Machine Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 [Job Recommendation System](https://github.com/BurukalaManiReethika/Job-Recommendation-System-Backend-ML-API)
-> ML-powered REST API recommending jobs via cosine similarity — [Live Demo](https://bj5nfjjouywgnvu5truco2.streamlit.app/)
-
-`Python` `Flask` `Scikit-learn` `REST API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [BLR Startup Arena](https://github.com/BurukalaManiReethika/BLR-Startup-Arena)
-> Full-stack platform connecting startups, investors & talent — [Live Site](https://www.blrstartuparena.com/)
-
-`Python` `Flask` `REST API` `JS` `HTML/CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 [CI/CD Pipeline](https://github.com/BurukalaManiReethika/CI-CD-Pipeline-Using-GitHub-Actions-Docker)
-> Fully automated, containerized CI/CD pipeline for web apps
-
-`Docker` `GitHub Actions` `CI/CD`
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 📈 Activity & Streaks
 
